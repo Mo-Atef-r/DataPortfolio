@@ -1,0 +1,1 @@
+These SQL queries were made on the tables created using 2 csv files that contained numbers of covid-19 cases, deaths, and vaccinations.
