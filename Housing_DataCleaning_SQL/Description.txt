@@ -1,0 +1,3 @@
+This project was done in MySQL using DBeaver.
+Some data cleaning operations were done such as standardizing date columns, handling missing entries, removing duplicates, etc.
+The resulting data is now ready to be used for analysis and visualization.
